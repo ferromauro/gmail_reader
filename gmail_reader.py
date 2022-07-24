@@ -2,7 +2,7 @@ import imaplib
 import email
 
 FROM_EMAIL  = [YOUR EMAIL]
-FROM_PWD    = [YOUR APP PASSWORD]]
+FROM_PWD    = [YOUR APP PASSWORD]
 SMTP_SERVER = "imap.gmail.com"
 SMTP_PORT   = 993
 
